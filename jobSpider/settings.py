@@ -91,7 +91,7 @@ ITEM_PIPELINES = {
 #HTTPCACHE_STORAGE = 'scrapy.extensions.httpcache.FilesystemCacheStorage'
 
 #MySQL数据库配置
-MYSQL_HOST = '119.29.215.39'
+MYSQL_HOST = '192.168.1.100'
 MYSQL_USER = 'root'
 MYSQL_PASSWORD = '123456'
 MYSQL_DBNAME = 'job_spider'
