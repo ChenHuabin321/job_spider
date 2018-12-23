@@ -29,8 +29,8 @@ https://www.cnblogs.com/chenhuabin/p/10164618.html
 git方式下载：git@github.com:ChenHuabin321/job_spider.git
 
 或者直接到下载zip源码包，地址为：https://github.com/ChenHuabin321/job_spider
-**
-安装依赖**
+
+**安装依赖**
 
 Scrapy==1.5.0
 
